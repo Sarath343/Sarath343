@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Course-Selling-Application**
-- 🌱 I’m currently learning **MERNSTACK **
+- 🌱 I’m currently learning **Mernstack**
 - 	I have hands on experience in **Java**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 📫 How to reach me:  **sarathkpambalaparambil@gmail.com**
