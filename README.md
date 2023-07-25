@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Sarath K P</h1>
-<h3 align="center">A passionate FUll Stack Developer developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer developer</h3>
 <!-- **Sarath343/Sarath343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
